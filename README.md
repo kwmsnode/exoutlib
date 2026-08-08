@@ -5,7 +5,8 @@ A library that provides output functionality for on-device debugging during deve
 ## 追加機能と利用方法
 [こちら](https://kwmsnode.f5.si/projects/exoutlib)をご覧ください。
 ## 依存関係
-libdataplusに依存します。devkitSH4にはlibdataplusが普通付属しています。
+libdataplusに依存します。devkitSH4にはlibdataplusが普通付属しています。  
+It depends on libdataplus. libdataplus is typically included with devkitSH4.
 ## 免責事項
 EX-word DATAPLUS 5で動作を確認しました。しかしながら、このプログラムの一切の動作についてkwmsnodeは責任を負いません。  
 Operation has been verified on the EX-word DATAPLUS 5.
