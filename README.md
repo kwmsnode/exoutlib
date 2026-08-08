@@ -11,4 +11,5 @@ It depends on libdataplus. libdataplus is typically included with devkitSH4.
 EX-word DATAPLUS 5で動作を確認しました。しかしながら、このプログラムの一切の動作についてkwmsnodeは責任を負いません。  
 Operation has been verified on the EX-word DATAPLUS 5.
 ## ライセンス
-このプログラムを利用される場合は、GPL 3.0あるいはそれ以降に従う必要があります。
+このプログラムを利用される場合は、GPL 3.0あるいはそれ以降に従う必要があります。  
+If you use this program, you must comply with GPL 3.0 or a later version.
